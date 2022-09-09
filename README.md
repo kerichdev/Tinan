@@ -1,5 +1,3 @@
-# Important: we are migrating to a new Discord server [.gg/avdanos](https://discord.gg/avdanos)
-
 # Notice: Pull Requests on this repository won't be reviewed often due to the main focus being the Desktop Environment.
 
 # Tinan
